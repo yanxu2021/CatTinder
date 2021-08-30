@@ -1,7 +1,7 @@
 # CatTinder
 First Full Stack Project
 
-# Continue developing
+# **Continue developing**
 - install font
 - insert GIF
 - implement moving background
